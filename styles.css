@@ -1,0 +1,52 @@
+header {
+    
+    margin: 10px;
+    background-color: gray;
+    height: 70px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+#rectanguloazul{
+
+    margin: 10px;
+    height: 150px;
+    width: 20%;
+    background-color: rgb(65, 62, 207);
+    border-radius: 10px;
+
+}
+
+#rectangulorojo{
+
+    margin: 10px;
+    height: 100px;
+    width: 20%;
+    padding: 10px;
+    background-color: rgb(238, 144, 144);
+    border-radius: 10px;
+
+}
+
+#rectanguloamarillo{
+
+    margin: 10px;
+    height: 150px;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(236, 153, 29);
+    border-radius: 10px;
+
+}
+
+#rectangulolila{
+
+    margin: 10px;
+    height: 150px;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(137, 161, 240);
+    border-radius: 10px;
+
+}
